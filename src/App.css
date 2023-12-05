@@ -145,7 +145,7 @@ margin: 0 -12px;
 
 .about-color {
   color: black;
-  font-family: Work Sans;
+  font-family: 'Work Sans', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -184,7 +184,7 @@ margin: 0 -12px;
 
 .para-1 {
   color: #000;
-  font-family: Work Sans;
+  font-family: 'Work Sans', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -195,7 +195,7 @@ margin: 0 -12px;
 
 .heading-2 {
   color: #000;
-  font-family: Work Sans;
+  font-family: 'Work Sans', sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -300,7 +300,7 @@ margin: 0 -12px;
 .features-heading {
   color: #000;
   text-align: center;
-  font-family: Work Sans;
+  font-family: 'Work Sans', sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -311,7 +311,7 @@ margin: 0 -12px;
 .features-para {
   color: #000;
   text-align: center;
-  font-family: Work Sans;
+  font-family: 'Work Sans', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -341,7 +341,7 @@ margin: 0 -12px;
 
 .top-heading {
   color: #FFF;
-  font-family: Work Sans;
+  font-family: 'Work Sans', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -424,7 +424,7 @@ margin: 0 -12px;
 .monthly-heading {
   color: #FFF;
   text-align: center;
-  font-family: Work Sans;
+  font-family: 'Work Sans', sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
@@ -458,7 +458,7 @@ margin: 0 -12px;
 .monthly-para {
   color: #000;
   text-align: center;
-  font-family: Work Sans;
+  font-family: 'Work Sans', sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -477,7 +477,7 @@ margin: 0 -12px;
 .dollar {
   color: #FFF;
   text-align: center;
-  font-family: Work Sans;
+  font-family: 'Work Sans', sans-serif;
   font-size: 48px;
   font-style: normal;
   font-weight: 600;
@@ -488,7 +488,7 @@ margin: 0 -12px;
 .dollar-para {
   color: #FFF;
   text-align: center;
-  font-family: Work Sans;
+  font-family: 'Work Sans', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 500;
@@ -505,7 +505,7 @@ margin: 0 -12px;
 
 .form-para {
   color: #000;
-  font-family: Work Sans;
+  font-family: 'Work Sans', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -566,7 +566,7 @@ margin: 0 -12px;
 .footer-para {
   color: #FFF;
   text-align: center;
-  font-family: Work Sans;
+  font-family: 'Work Sans', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -575,7 +575,7 @@ margin: 0 -12px;
 
 .footer-last-para {
   color: #FFF;
-  font-family: Work Sans;
+  font-family: 'Work Sans', sans-serif;
   font-size: 12px;
   font-style: normal;
   font-weight: 400;
@@ -626,7 +626,6 @@ position: relative;
   position: absolute;
   z-index: 1;
   transition: 300ms ease-in-out;
-
 }
 
 .card1:hover .elipse15 {
@@ -683,8 +682,6 @@ position: relative;
   }
  
 }
-
-
 @media (max-width: 992px) {
   label[for="icon"] {
       width: 35px;
